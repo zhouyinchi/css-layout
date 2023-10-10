@@ -1,0 +1,11 @@
+.three {
+  position: relative;
+}
+.three .left,
+.three .right {
+  width: 100px;
+}
+.three .content {
+  background-color: aqua;
+  height: 180px;
+}
